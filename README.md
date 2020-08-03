@@ -1,4 +1,3 @@
-### Hi there 👋                                 
 ![Typing](https://i.imgur.com/J2PfV2m.gif)
 
 <!--
