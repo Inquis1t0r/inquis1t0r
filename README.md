@@ -1,5 +1,4 @@
-![Typing](https://i.imgur.com/J2PfV2m.gif)
-
+<img src="https://i.imgur.com/J2PfV2m.gif" align="left" height="250" width="320" >
 <!--
 **Inquis1t0r/inquis1t0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
