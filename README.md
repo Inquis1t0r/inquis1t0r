@@ -1,5 +1,5 @@
 ### Hi there 👋                                 
-
+![Typing](https://i.imgur.com/J2PfV2m.gif)
 
 <!--
 **Inquis1t0r/inquis1t0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
