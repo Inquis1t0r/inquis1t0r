@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <img src="https://i.imgur.com/J2PfV2m.gif" align="left" height="250" width="320" >
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=inquis1t0r&badges=4&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px" 
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=inquis1t0r&badges=4&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" 
 />
 
 <!--
