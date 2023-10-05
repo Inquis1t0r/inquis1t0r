@@ -1,18 +1,19 @@
 ### 👨‍💻 About Me
+<img src="https://i.imgur.com/J2PfV2m.gif" align="left" height="195" width="320">
+Hey there! I'm Piotr, a seasoned software developer with a passion for crafting elegant solutions to complex problems. 
 
-Hey there! I'm Piotr, a seasoned software developer with a passion for crafting elegant solutions to complex problems. With several years in the industry, I've had the privilege of working on diverse projects across various domains and technologies.
+With several years in the industry, I've had the privilege of working on diverse projects across various domains and technologies.
 
 Outside of coding, you might find me going deeper into the realms of malware analysis and reverse engineering. I believe in the power of open-source collaboration and giving back to the tech community.
 
-<a href="https://piotrkazimierski.pl" target="_blank"><img src="button.svg" width="75" height="35"></a>
+<a href="https://piotrkazimierski.pl" target="_blank"><img src="button.svg" width="75" height="45"></a>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 ![](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)
-<img src="https://i.imgur.com/J2PfV2m.gif" align="left" height="195" width="320">
+[![GitHub Streak](https://github-readme-streak-stats-hazel.vercel.app?user=inquis1t0r&theme=halloween)](https://git.io/streak-stats)
+
 
 ![codersrank](https://i.imgur.com/iqoia3g.png)
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=inquis1t0r&theme=darcula&hide_border=false)
 
 # 🔥 The Tech I Command:
 <div align="left">
