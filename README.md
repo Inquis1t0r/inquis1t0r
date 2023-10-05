@@ -1,7 +1,14 @@
+### 👨‍💻 About Me
+
+Hey there! I'm Piotr, a seasoned software developer with a passion for crafting elegant solutions to complex problems. With several years in the industry, I've had the privilege of working on diverse projects across various domains and technologies.
+
+Outside of coding, you might find me going deeper into the realms of malware analysis and reverse engineering. I believe in the power of open-source collaboration and giving back to the tech community.
+
+[**Visit My Portfolio Website (WiP)**](https://piotrkazimierski.pl) 🚀🌟
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 ![](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)
 <img src="https://i.imgur.com/J2PfV2m.gif" align="left" height="195" width="320">
-
 
 ![codersrank](https://i.imgur.com/iqoia3g.png)
 
