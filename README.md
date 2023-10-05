@@ -8,7 +8,7 @@ Outside of coding, you might find me going deeper into the realms of malware ana
 
 <a href="https://piotrkazimierski.pl" target="_blank"><img src="button.svg" width="75" height="45"></a>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
-![](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&card_width=418)
 [![GitHub Streak](https://github-readme-streak-stats-hazel.vercel.app?user=inquis1t0r&theme=halloween&card_width=346)](https://git.io/streak-stats)
 
 
