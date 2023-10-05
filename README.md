@@ -4,7 +4,7 @@ Hey there! I'm Piotr, a seasoned software developer with a passion for crafting 
 
 Outside of coding, you might find me going deeper into the realms of malware analysis and reverse engineering. I believe in the power of open-source collaboration and giving back to the tech community.
 
-<a href="https://piotrkazimierski.pl"><img src="button.svg" width="75" height="35"></a>
+<a href="https://piotrkazimierski.pl" target="_blank"><img src="button.svg" width="75" height="35"></a>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 ![](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)
 <img src="https://i.imgur.com/J2PfV2m.gif" align="left" height="195" width="320">
