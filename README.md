@@ -1,9 +1,100 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-<img src="https://i.imgur.com/J2PfV2m.gif" align="left" height="250" width="320" >
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+![](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://i.imgur.com/J2PfV2m.gif" align="left" height="195" width="320">
+
+
 ![codersrank](https://i.imgur.com/iqoia3g.png)
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=inquis1t0r&theme=darcula&hide_border=false)
 
+# 🔥 The Tech I Command:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/xamarin/3498DB" height="40" alt="xamarin logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/000000" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+</div>
+
+# 🌱 Growing My Tech Garden:
+<div align="left">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Inquis1t0r/inquis1t0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #TODO:
