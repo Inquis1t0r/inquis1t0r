@@ -67,6 +67,8 @@ Outside of coding, you might find me going deeper into the realms of malware ana
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/HolyC_Logo.svg/612px-HolyC_Logo.svg.png" height="40" alt="holyc logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
