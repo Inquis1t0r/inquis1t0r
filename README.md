@@ -51,6 +51,8 @@ Outside of coding, you might find me going deeper into the realms of malware ana
 
 # 🌱 Growing My Tech Garden:
 <div align="left">
+  <img src="https://i.imgur.com/ZZb65yG.png" height="40" alt="asm logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
