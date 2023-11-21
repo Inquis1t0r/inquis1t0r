@@ -47,6 +47,10 @@ Outside of coding, you might find me going deeper into the realms of malware ana
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://wnpism.uw.edu.pl/wp-content/uploads/2019/08/ibm-spss-statistics-300x300.png" height="40" alt="spss logo"  />
 </div>
 
 # 🌱 Growing My Tech Garden:
@@ -104,8 +108,6 @@ Outside of coding, you might find me going deeper into the realms of malware ana
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://www.infopulse.com/uploads/media/sap-abap.svg" height="40" alt="abap logo"  />
   <img width="12" />
