@@ -54,9 +54,9 @@ Outside of coding, you might find me going deeper into the realms of malware ana
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Family_BASIC_logo.svg/2560px-Family_BASIC_logo.svg.png" height="40" alt="fbasic logo"  />
   <img width="12" />
-  <img src="https://i.imgur.com/YoT3sIU.png" height="40" alt="vb logo"  />  
+  <img src="https://i.imgur.com/YoT3sIU.png" height="40" width='40' alt="vb logo"  />  
   <img width="12" />
-  <img src="https://modrika.com/wp-content/uploads/2015/12/excel-vba-1-520x520.gif" height="40" alt="vba logo"  />
+  <img src="https://modrika.com/wp-content/uploads/2015/12/excel-vba-1-520x520.gif" height="40" width='40' alt="vba logo"  />
 </div>
 
 # 🌱 Growing My Tech Garden:
