@@ -15,36 +15,54 @@ Outside of coding, you might find me going deeper into the realms of malware ana
 ![codersrank](https://i.imgur.com/iqoia3g.png)
 
 
-# 🔥 The Tech I Command:
+# 👨‍💻 Active Professional Languages and Tech:
 <div align="left">
-  <img width="12" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo" />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+    <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+    <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  </div>
+  
+# 💸 Commercial Expertise:
+
+<div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/xamarin/3498DB" height="40" alt="xamarin logo"  />
-  <img width="12" />
+    <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/000000" height="40" alt="mysql logo"  />
+    <img width="12" />
+  <img src="https://i.imgur.com/YoT3sIU.png" height="40" width='40' alt="vb logo"  />  
+  <img width="12" />
+  <img src="https://modrika.com/wp-content/uploads/2015/12/excel-vba-1-520x520.gif" height="40" width='40' alt="vba logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  </div>
+  
+# 🔥 Unapplied Tech I Command:
+
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://e7.pngegg.com/pngimages/304/124/png-clipart-xamarin-android-cross-platform-native-studio-blue-angle.png" height="40" alt="xamarin logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apple/000000" height="40" alt="apple logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
@@ -53,19 +71,11 @@ Outside of coding, you might find me going deeper into the realms of malware ana
   <img src="https://wnpism.uw.edu.pl/wp-content/uploads/2019/08/ibm-spss-statistics-300x300.png" height="40" alt="spss logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Family_BASIC_logo.svg/2560px-Family_BASIC_logo.svg.png" height="40" alt="fbasic logo"  />
-  <img width="12" />
-  <img src="https://i.imgur.com/YoT3sIU.png" height="40" width='40' alt="vb logo"  />  
-  <img width="12" />
-  <img src="https://modrika.com/wp-content/uploads/2015/12/excel-vba-1-520x520.gif" height="40" width='40' alt="vba logo"  />
 </div>
 
 # 🌱 Growing My Tech Garden:
 <div align="left">
   <img src="https://i.imgur.com/ZZb65yG.png" height="40" alt="asm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
