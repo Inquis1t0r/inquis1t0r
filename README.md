@@ -15,7 +15,7 @@ Outside of coding, you might find me going deeper into the realms of malware ana
 ![codersrank](https://i.imgur.com/iqoia3g.png)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/inquis1t0r?theme=unicorn&font=Stalinist%20One)
-
+<!-- TODO: Replace with shields.io -->
 # 👨‍💻 Active Professional Languages and Tech:
 <div align="left">
     <img width="12" />
