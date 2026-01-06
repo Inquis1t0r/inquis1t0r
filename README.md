@@ -28,24 +28,29 @@ Outside of coding, you might find me going deeper into the realms of malware ana
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
     <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+        <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/C560BAQEql1GZ3xQaig/company-logo_200_200/company-logo_200_200/0/1630658946659/micronaut_logo?e=2147483647&v=beta&t=2HFnrBl1hJRbhS5mzznDc_gNXCkiufbm3X-Ughgsa04" height="40" alt="micronaut logo"  />
+      <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" width='40' alt="git logo"  />
   </div>
   
 # 💸 Commercial Expertise:
 
 <div align="left">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-    <img width="12" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
-    <img width="12" />
+   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/000000" height="40" alt="mysql logo"  />
     <img width="12" />
   <img src="https://i.imgur.com/YoT3sIU.png" height="40" width='40' alt="vb logo"  />  
@@ -129,6 +134,8 @@ Outside of coding, you might find me going deeper into the realms of malware ana
   <img src="https://www.infopulse.com/uploads/media/sap-abap.svg" height="40" alt="abap logo"  />
   <img width="12" />
   <img src="https://www.oriongovernance.com/wp-content/uploads/2022/08/Cobol.png" height="40" width='40' alt="cobol logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" width='40' alt="rust logo"  />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
