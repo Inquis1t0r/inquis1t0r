@@ -5,7 +5,7 @@ I am a Senior Salesforce Engineer focused on high-concurrency systems, multi-ten
 
 My work centers on decoupling complex transactions, enforcing asynchronous stability, and implementing structured fflib governance (Apex Enterprise Patterns) to maintain a clean, predictable, and performant Salesforce core under enterprise-grade workloads.
 
-Currently developing patterns and codebases that secure multi-tenant application layers against race conditions and platform limit exhaustion.
+**Driven by Clean Code principles, I build highly decoupled, domain-driven architectures that ensure long-term maintainability, eliminate race conditions, and safeguard platform limits.**
 
 <br>
 
@@ -41,6 +41,7 @@ Currently developing patterns and codebases that secure multi-tenant application
 </div>
 
 # 📈 Core Competencies & Platform Governance:
+* **Clean Code & Decoupled Architecture:** Heavy emphasis on SOLID principles, modularity, and event-driven decoupling to prevent technical debt in massive enterprise orgs.
 * **Advanced Apex Engineering:** Application of Apex Enterprise Patterns (fflib-common) — Separation of Concerns across Selectors, Domains, and Service Layers.
 * **Concurrency & Limit Defenses:** Designing stateless Idempotency Gateways, optimizing Platform Cache for multi-tenant memory efficiency, and utilizing native database unique constraints to mitigate parallel execution race conditions.
 * **Asynchronous Design Patterns:** Implementing scalable decoupling patterns via high-volume Platform Events, Queueable Apex routing, and building robust error-handling with Dead-Letter Queue (DLQ) mechanics.
