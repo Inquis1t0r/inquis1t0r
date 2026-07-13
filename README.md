@@ -3,9 +3,9 @@
 
 I am a Senior Salesforce Engineer focused on high-concurrency systems, multi-tenant resource optimization, and resilient integration architectures. 
 
-My work centers on decoupling complex transactions, enforcing asynchronous stability, and pragmatic codebase governance. I balance structured corporate standards (**fflib**) with lightweight, scalable paradigms like the **Apex Well-Architected Framework (AWAF)** to keep the core codebase performant under enterprise-grade workloads.
+My work centers on transaction decoupling, asynchronous stability, and scaling core applications under enterprise-grade workloads. I build modular codebases using fflib (Apex Enterprise Patterns), evolved through the lightweight, principle-first ideas from the **Apex Well-Architected Framework (AWAF)**.
 
-**Driven by Clean Code principles, I design highly decoupled, domain-driven architectures and scale-ready Industries solutions (FSC & OmniStudio) that minimize technical debt and safeguard platform limits.**
+I advocate for **Clean Code** and **highly decoupled, domain-driven architectures** to eliminate technical debt. My primary expertise lies in delivery within **Financial Services Cloud (FSC)** and architecting performant **OmniStudio** solutions.
 
 <br>
 
@@ -37,13 +37,13 @@ My work centers on decoupling complex transactions, enforcing asynchronous stabi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
+  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
 </div>
 
 # 📈 Core Competencies & Platform Governance:
-* **Clean Code & Decoupled Architecture:** Deep focus on SOLID principles, high cohesion, and event-driven decoupling to prevent technical debt in massive enterprise environments.
-* **Advanced Apex Governance:** Practical application of Apex Enterprise Patterns (fflib-common) balanced with modern, principle-first software design guided by the **Apex Well-Architected Framework (AWAF)**.
-* **Salesforce Industries Expertise:** Hands-on experience in **Financial Services Cloud (FSC)** core ecosystems, combined with designing highly performant, scalable solutions via **OmniStudio** (Integration Procedures, DataRaptors, FlexCards).
-* **Concurrency & Limit Defenses:** Designing stateless Idempotency Gateways, optimizing Platform Cache for multi-tenant memory efficiency, and utilizing native database unique constraints to mitigate parallel execution race conditions.
-* **Asynchronous Design Patterns:** Implementing scalable decoupling patterns via high-volume Platform Events, Queueable Apex routing, and building robust error-handling with Dead-Letter Queue (DLQ) mechanics.
-* **Modern Tooling & Execution:** SFDX / Salesforce CLI workflows, automated scratch org management, and isolated scratch-driven development.
+* **Clean Code & Decoupled Architecture:** Solid focus on SOLID, high cohesion, and event-driven decoupling to eliminate technical debt.
+* **Advanced Apex Governance:** Practical fflib-common implementation, streamlined by modern design patterns inspired by **AWAF**.
+* **Salesforce Industries:** Architecture and development in **Financial Services Cloud (FSC)** using performant, hybrid approach to **OmniStudio** (IPs, DataRaptors, FlexCards).
+* **Concurrency & Limit Defenses:** Stateless Idempotency Gateways, Platform Cache optimization, and database unique constraints to prevent parallel race conditions.
+* **Asynchronous Design Patterns:** High-volume Platform Events, Queueable Apex routing, and robust error-handling with Dead-Letter Queues (DLQ).
+* **Modern Tooling:** SFDX / Salesforce CLI workflows, automated scratch org management, and isolated development.
