@@ -28,16 +28,8 @@ I advocate for **Clean Code** and **highly decoupled, domain-driven architecture
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"   />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" width='40' alt="git logo"   />
-</div>
-
-# ⚙️ Polyglot Integration Foundation (Supporting Stack):
-<div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo" />
 </div>
 
 # 📈 Core Competencies & Platform Governance:
