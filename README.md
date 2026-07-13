@@ -5,7 +5,7 @@ I am a Senior Salesforce Engineer focused on high-concurrency systems, multi-ten
 
 My work centers on transaction decoupling, asynchronous stability, and scaling core applications under enterprise-grade workloads. I build modular codebases using fflib (Apex Enterprise Patterns), evolved through the lightweight, principle-first ideas from the **Apex Well-Architected Framework (AWAF)**.
 
-I advocate for **Clean Code** and **highly decoupled, domain-driven architectures** to eliminate technical debt. My primary expertise lies in delivery within **Financial Services Cloud (FSC)** and architecting performant **OmniStudio** solutions.
+I advocate for **Clean Code** and **highly decoupled, domain-driven architectures** to eliminate technical debt. My primary expertise lies in delivery within **Financial Services Cloud (FSC)/Industries** and architecting performant **OmniStudio** solutions.
 
 <br>
 
