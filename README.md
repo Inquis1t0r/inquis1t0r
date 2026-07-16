@@ -29,7 +29,11 @@ I am focused on the intensive acquisition of deep skills to master intricate low
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rust" height="40" alt="rust logo" />
   <img width="12" />
+  <img src="https://docs.hex-rays.com/~gitbook/image?url=https%3A%2F%2F1926493584-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FD7fgl4EL0WWJ18ZQcIxE%252Fuploads%252Fgit-blob-3d917705a9110478df98482036429c5101968c37%252Ficon_pro.png%3Falt%3Dmedia&width=300&dpr=1&quality=100&sign=c2eb309&sv=2" height="40" alt="ida logo" />
+  <img width="12" />
   <img src="https://i.imgur.com/876vnah.png" height="40" alt="ghidra logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/373276/linux.svg" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/wireshark" height="40" alt="wireshark logo" />
 </div>
