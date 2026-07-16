@@ -17,13 +17,16 @@ I am focused on the intensive acquisition of deep skills to master intricate low
 
 ### Security & Reverse Engineering Focus
 <div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-    <img width="12" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/373445/assembly.svg" height="40" alt="asm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/rust" height="40" alt="rust logo" />
   <img width="12" />
   <img src="https://i.imgur.com/876vnah.png" height="40" alt="ghidra logo" />
