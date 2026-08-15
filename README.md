@@ -1,67 +1,58 @@
-### 👨‍💻 About Me
-<img src="https://i.imgur.com/J2PfV2m.gif" align="left" height="195" width="320">
+# ☠️ inquis1t0r
 
-I am a Software Engineer with extensive experience in enterprise systems, now focusing my career and development on **Cybersecurity, Malware Analysis, and Reverse Engineering**. 
+> **Systems Software Engineer & Malware Researcher**  
+> Focused on Low-Level Systems, Reverse Engineering x86_64/ARM binaries, and OS Internals.
 
-I am focused on the intensive acquisition of deep skills to master intricate low-level operating system internals and dissect complex malicious binaries.<br>
+[![Blog](https://img.shields.io/badge/Research_Blog-malwareinquisition.eu-red?style=for-the-badge&logo=ghost)](https://malwareinquisition.eu/)
+
 <br>
-<br>
-<a href="https://piotrkazimierski.pl" target="_blank"><img src="button.svg" width="75" height="45"></a>
 
-![](https://github-readme-stats.vercel.app/api?username=inquis1t0r&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&card_width=418)
-[![GitHub Streak](https://github-readme-streak-stats-hazel.vercel.app?user=inquis1t0r&theme=halloween&card_width=346)](https://git.io/streak-stats)
+<p align="left">
+  <img src="https://i.imgur.com/J2PfV2m.gif" width="380" alt="Cybersecurity Animation" />
+</p>
 
 ---
 
-# 🛡️ Tech Stack & Focus Areas:
+### 🔬 Core Research & Expertise
 
-### Security & Reverse Engineering Focus
+- **Reverse Engineering & Disassembly:** Static & dynamic analysis of PE/ELF binaries, shellcode extraction, deobfuscation, and unpacking using **IDA Pro**, **Ghidra**, and **x64dbg**.
+- **Windows Internals & Low-Level Systems:** Direct interaction with Win32 API, Native API (Nt/Zw), Process Injection techniques, PE header parsing, and memory management.
+- **Malware Analysis & Threat Intel:** Dissecting complex malware families, analyzing C2 communication protocols, and extracting IOCs.
+- **Security Tooling & Automation:** Building custom disassembler scripts, emulators, and analysis pipelines in **Python**, **C/C++**, and **Go**.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+#### Low-Level & Systems Programming
 <div align="left">
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373445/assembly.svg" height="40" alt="asm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rust" height="40" alt="rust logo" />
-  <img width="12" />
-  <img src="https://docs.hex-rays.com/~gitbook/image?url=https%3A%2F%2F1926493584-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FD7fgl4EL0WWJ18ZQcIxE%252Fuploads%252Fgit-blob-3d917705a9110478df98482036429c5101968c37%252Ficon_pro.png%3Falt%3Dmedia&width=300&dpr=1&quality=100&sign=c2eb309&sv=2" height="40" alt="ida logo" />
-  <img width="12" />
-  <img src="https://i.imgur.com/876vnah.png" height="40" alt="ghidra logo" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373276/linux.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/wireshark" height="40" alt="wireshark logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" />
+  &nbsp;
+  <img src="https://www.svgrepo.com/show/373445/assembly.svg" height="38" alt="ASM" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="38" alt="Go" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/rust" height="38" alt="Rust" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
 </div>
 
-### Systems Engineering & Scripting
+#### Reverse Engineering & Forensic Tools
 <div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"   />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" width='40' alt="git logo"   />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo" />
+  <img src="https://docs.hex-rays.com/~gitbook/image?url=https%3A%2F%2F1926493584-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FD7fgl4EL0WWJ18ZQcIxE%252Fuploads%252Fgit-blob-3d917705a9110478df98482036429c5101968c37%252Ficon_pro.png%3Falt%3Dmedia&width=300&dpr=1&quality=100&sign=c2eb309&sv=2" height="38" alt="IDA Pro" />
+  &nbsp;
+  <img src="https://i.imgur.com/876vnah.png" height="38" alt="Ghidra" />
+  &nbsp;
+  <img src="https://www.svgrepo.com/show/373276/linux.svg" height="38" alt="Linux" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark" height="38" alt="Wireshark" />
 </div>
 
-# 📈 Core Focus & Competencies:
+---
 
-### 🔍 Malware Analysis & Reverse Engineering
-* **Static & Dynamic Analysis:** Dissecting Portable Executable (PE) and ELF structures, analyzing binary import tables, and monitoring runtime behavior in isolated sandbox environments.
-* **Reverse Engineering:** Assembly (x86/x64), debuggers and disassemblers (Ghidra, IDA, x64dbg), and analyzing OS API level interactions.
-* **Behavioral & System Monitoring:** Analyzing processes, file system changes, registry modifications, and network traffic generated by untrusted payloads.
-* **Security Automation:** Writing Python scripts to automate log parsing, extract indicators of compromise (IOCs), and streamline analysis workflows.
-
-### ⚙️ Enterprise Engineering Foundations
-* **System Architecture:** Leveraging solid backend experience to understand complex network communication, API integrations, and system-level interactions.
-* **Defensive Engineering:** Applying clean code principles, robust error-handling, and defensive programming to security tool development.
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats-hazel.vercel.app?user=inquis1t0r&theme=darcula&card_width=418&hide_border=false" alt="GitHub Streak" />
+</div>
