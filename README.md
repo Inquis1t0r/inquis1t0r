@@ -1,7 +1,7 @@
 # ☠️ inquis1t0r
 
-> **Systems Software Engineer & Malware Researcher**  
-> Focused on Low-Level Systems, Reverse Engineering x86_64/ARM binaries, and OS Internals.
+ **Systems Software Engineer & Malware Researcher**  
+ Focused on Low-Level Systems, Reverse Engineering x86_64/ARM binaries, and OS Internals.
 
 [![Blog](https://img.shields.io/badge/Research_Blog-malwareinquisition.eu-red?style=for-the-badge&logo=ghost)](https://malwareinquisition.eu/)
 
