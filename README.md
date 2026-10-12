@@ -11,6 +11,8 @@
   <img src="https://i.imgur.com/J2PfV2m.gif" width="380" alt="Cybersecurity Animation" />
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Inquis1t0r?theme=dark&font=Iceberg)
+
 ---
 
 ### 🔬 Core Research & Expertise
