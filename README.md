@@ -1,10 +1,9 @@
-> **Enterprise Cloud Architect & Integration Specialist. Hardened by low-level security expertise.**
+> **Enterprise Cloud Architect & Integration Specialist.**
 > 
-> Architecting high-throughput, decoupled cloud ecosystems (AWS / Enterprise SaaS). Designing systems that survive compromise — not just checkboxes.
+> Architecting high-throughput, decoupled cloud ecosystems (AWS / Enterprise SaaS). Security-minded by nature, building systems that survive real-world compromise.
 
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-ApexPredator.cloud-0A66C2?style=for-the-badge&logo=salesforce)](https://apexpredator.cloud)
-[![Security Research](https://img.shields.io/badge/Security_Research-malwareinquisition.eu-red?style=for-the-badge&logo=ghost)](https://malwareinquisition.eu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Tech Blog - ApexPredator.cloud](https://img.shields.io/badge/Tech_Blog-ApexPredator.cloud-0A66C2?style=for-the-badge&logo=salesforce)](https://apexpredator.cloud)
+[![LinkedIn - Connect](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
 <br>
 
@@ -21,52 +20,39 @@
 <div>
   <img src="https://img.shields.io/badge/Experience-9_Years_Software_Engineering-brightgreen?style=for-the-badge" alt="Experience" />
   <img src="https://img.shields.io/badge/Enterprise_SaaS-5%2B_Years_Architecture-blue?style=for-the-badge" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Focus-Multi--Cloud_%26_Zero_Trust-orange?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Multi--Cloud_%26_Integrations-orange?style=for-the-badge" alt="Focus" />
 </div>
 
 <br>
 
-I combine **9 years of software engineering** (Java, Node.js, C#, Python) with deep architectural expertise in Enterprise SaaS and AWS cloud-native environments. Uniquely, my architectural decisions are grounded in hands-on **low-level security research** and reverse engineering. I build highly concurrent, decoupled integrations (event-driven microservices) that offload heavy computations from multi-tenant platforms while remaining secure by design.
+I combine **9 years of software engineering** (Java, Node.js, C#, Python) with deep architectural expertise in Enterprise SaaS (Salesforce) and AWS cloud-native environments. I specialize in building highly concurrent, decoupled integrations (event-driven microservices) that offload heavy computations from multi-tenant platforms. My architectural philosophy is strongly influenced by my background in low-level security research, ensuring that enterprise systems are not just scalable, but secure by design.
 
 ---
 
 ### 🏛️ Cloud Architecture & Enterprise Integration
 
-Designing scalable, fault-tolerant ecosystems with security as a first-class constraint.
+Designing scalable, fault-tolerant ecosystems for the financial and enterprise sectors.
 
 - **Distributed Systems & Microservices:** Offloading complex business logic to external **Java (Spring Boot / Micronaut)** and **Node.js/TypeScript** microservices on **AWS Lambda**.
-- **Event-Driven Architecture:** Asynchronous state synchronization using **Kafka**, Change Data Capture (CDC), and Pub/Sub APIs.
-- **Enterprise SaaS Architecture:** Strict separation of concerns using FFLIB/AWAF Enterprise Patterns, handling Large Data Volumes (LDV), and automated KYC/AML orchestration.
+- **Event-Driven Architecture:** Asynchronous state synchronization using **Kafka**, Change Data Capture (CDC), and Salesforce Pub/Sub APIs.
+- **Enterprise SaaS Architecture:** Strict separation of concerns using FFLIB/AWAF Enterprise Patterns, handling Large Data Volumes (LDV), and orchestrating automated KYC/AML compliance flows.
 - **DevOps & Infrastructure as Code:** Provisioning multi-cloud resources via **Terraform**, observability via **Datadog**, and orchestrating automated CI/CD pipelines.
 
 ---
 
-### ☠️ Deep Security Specialization — Reverse Engineering & Malware Analysis
+### 🔬 Hobbyist Research: Malware Analysis & Reverse Engineering
 
-*Hobby-grade depth. Architecture-grade application.*
+Outside of my day job architecting enterprise systems, I run a security research blog at [**malwareinquisition.eu**](https://malwareinquisition.eu/). 
 
-I reverse-engineer real malware to understand how systems actually fail. This directly informs my architectural design: defense-in-depth, isolation boundaries, and strict Locker Service / security enforcement in enterprise apps.
+Reverse-engineering real malware is my hobby, but it directly sharpens my professional architectural decisions. Understanding how systems are actively exploited in the wild allows me to design better defense-in-depth mechanisms, stricter isolation boundaries, and more resilient integrations.
 
-- **Binary Reverse Engineering:** Static & dynamic analysis of PE/ELF binaries, deobfuscation, and unpacking using **IDA Pro**, **Ghidra**, and **x64dbg**.
-- **OS Internals & Threat Intel:** Windows kernel structures (Nt/Zw API), Linux syscalls, dissecting C2 protocols, and mapping TTPs to architectural mitigations.
-- **Zero Trust & Compliance:** Implementing identity verification layers, jurisdiction-specific compliance constraints, and automated threat analysis (Agentforce/AI).
+- **Research Focus:** Static & dynamic analysis of PE/ELF binaries, deobfuscation, and unpacking.
+- **Tooling:** IDA Pro, Ghidra, x64dbg, Wireshark.
+- **Value to Enterprise:** Translating low-level threat intelligence (TTPs, C2 protocols) into high-level Zero Trust architectural constraints and secure SDLC practices.
 
 ---
 
 ### 🛠️ Technology Stack & Systems Tooling
-
-#### Cloud & Infrastructure
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" alt="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="38" alt="Terraform" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="38" alt="Kubernetes" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="38" alt="Kafka" />
-</div>
 
 #### Backend, Integrations & Enterprise SaaS
 <div align="left">
@@ -83,7 +69,20 @@ I reverse-engineer real malware to understand how systems actually fail. This di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="C#" />
 </div>
 
-#### Reverse Engineering & Security Tools
+#### Cloud & Infrastructure
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" alt="AWS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="38" alt="Terraform" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="38" alt="Kubernetes" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="38" alt="Kafka" />
+</div>
+
+#### Reverse Engineering Tools (Hobby)
 <div align="left">
   <img src="https://docs.hex-rays.com/~gitbook/image?url=https%3A%2F%2F1926493584-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FD7fgl4EL0WWJ18ZQcIxE%252Fuploads%252Fgit-blob-3d917705a9110478df98482036429c5101968c37%252Ficon_pro.png%3Falt%3Dmedia&width=300&dpr=1&quality=100&sign=c2eb309&sv=2" height="38" alt="IDA Pro" />
   &nbsp;
@@ -92,8 +91,6 @@ I reverse-engineer real malware to understand how systems actually fail. This di
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C" />
   &nbsp;
   <img src="https://www.svgrepo.com/show/373445/assembly.svg" height="38" alt="ASM" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark" height="38" alt="Wireshark" />
 </div>
 
 ---
