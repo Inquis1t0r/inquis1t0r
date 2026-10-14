@@ -4,7 +4,7 @@
 
 [![Personal Site](https://img.shields.io/badge/Personal_Site-piotrkazimierski.pl-blue?style=for-the-badge)](https://piotrkazimierski.pl)
 [![Tech Blog - ApexPredator.cloud](https://img.shields.io/badge/Tech_Blog-ApexPredator.cloud-0A66C2?style=for-the-badge&logo=salesforce)](https://apexpredator.cloud)
-[![LinkedIn - Connect](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn - Connect](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piotr-kazimierski-73168a63/)
 
 <br>
 
