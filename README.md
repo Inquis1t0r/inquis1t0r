@@ -37,7 +37,7 @@ Designing scalable, fault-tolerant ecosystems for the financial and enterprise s
 - **Distributed Systems & Microservices:** Offloading complex business logic to external **Java (Spring Boot / Micronaut)** and **Node.js/TypeScript** microservices on **AWS Lambda**.
 - **Event-Driven Architecture:** Asynchronous state synchronization using **Kafka**, Change Data Capture (CDC), and Salesforce Pub/Sub APIs.
 - **Enterprise SaaS Architecture:** Strict separation of concerns using FFLIB/AWAF Enterprise Patterns, handling Large Data Volumes (LDV), and orchestrating automated KYC/AML compliance flows.
-- **DevOps & Infrastructure as Code:** Provisioning multi-cloud resources via **Terraform**, observability via **Datadog**, and orchestrating automated CI/CD pipelines.
+- **DevOps & Infrastructure as Code:** Provisioning multi-cloud resources via **Terraform**, observability via **Datadog**/**Grafana**, and orchestrating automated CI/CD pipelines.
 
 ---
 
