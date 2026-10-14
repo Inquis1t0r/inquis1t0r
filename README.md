@@ -83,7 +83,7 @@ Reverse-engineering real malware is my hobby, but it directly sharpens my profes
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="38" alt="Kafka" />
 </div>
 
-#### Reverse Engineering Tools (Hobby)
+#### Reverse Engineering Tools
 <div align="left">
   <img src="https://docs.hex-rays.com/~gitbook/image?url=https%3A%2F%2F1926493584-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FD7fgl4EL0WWJ18ZQcIxE%252Fuploads%252Fgit-blob-3d917705a9110478df98482036429c5101968c37%252Ficon_pro.png%3Falt%3Dmedia&width=300&dpr=1&quality=100&sign=c2eb309&sv=2" height="38" alt="IDA Pro" />
   &nbsp;
