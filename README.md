@@ -1,6 +1,7 @@
-> **Enterprise Cloud Architect & Integration Specialist.**
-> 
-> Architecting high-throughput, decoupled cloud ecosystems (AWS / Enterprise SaaS). Security-minded by nature, building systems that survive real-world compromise.
+# ⚡ Piotr Kazimierski
+
+> **Salesforce & Enterprise Cloud Architect | Integration Specialist**  
+> Architecting High-Throughput, Decoupled Systems, Multi-Cloud Solutions & AI-Driven Workflows.
 
 [![Personal Site](https://img.shields.io/badge/Personal_Site-piotrkazimierski.pl-blue?style=for-the-badge)](https://piotrkazimierski.pl)
 [![Tech Blog - ApexPredator.cloud](https://img.shields.io/badge/Tech_Blog-ApexPredator.cloud-0A66C2?style=for-the-badge&logo=salesforce)](https://apexpredator.cloud)
@@ -9,100 +10,75 @@
 <br>
 
 <p align="left">
-  <img src="https://i.imgur.com/J2PfV2m.gif" width="380" alt="Cybersecurity Animation" />
+  <img src="https://i.imgur.com/J2PfV2m.gif" width="380" alt="Software Engineering Animation" />
 </p>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Inquis1t0r?theme=dark&font=Iceberg&ext=svg)
 
 ---
 
 ### 📊 Executive Summary
 
 <div>
-  <img src="https://img.shields.io/badge/Experience-9_Years_Software_Engineering-brightgreen?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/Enterprise_SaaS-5%2B_Years_Architecture-blue?style=for-the-badge" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Experience-15%2B_Years_Software_Engineering-brightgreen?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Enterprise_SaaS-5%2B_Years_Salesforce_Architecture-blue?style=for-the-badge" alt="Salesforce Architecture" />
   <img src="https://img.shields.io/badge/Focus-Multi--Cloud_%26_Integrations-orange?style=for-the-badge" alt="Focus" />
 </div>
 
 <br>
 
-I combine **9 years of software engineering** (Java, Node.js, C#, Python) with deep architectural expertise in Enterprise SaaS (Salesforce) and AWS cloud-native environments. I specialize in building highly concurrent, decoupled integrations (event-driven microservices) that offload heavy computations from multi-tenant platforms. My architectural philosophy is strongly influenced by my background in low-level security research, ensuring that enterprise systems are not just scalable, but secure by design.
+I combine **15+ years of solid software engineering background** (Java, Python, C/C++, TypeScript) with deep architectural expertise in **Enterprise SaaS (Salesforce)** and **AWS cloud-native environments**. 
+
+My core focus is designing high-availability, decoupled ecosystems (EDA, DDD) that offload heavy processing from multi-tenant platforms using modern microservices and messaging buses. Backed by a strong foundation in system internals and DevSecOps practices, I build enterprise systems that are scalable, resilient, and secure by design.
 
 ---
 
-### 🏛️ Cloud Architecture & Enterprise Integration
+### 🏛️ Architectural Competencies & Enterprise Integration
 
-Designing scalable, fault-tolerant ecosystems for the financial and enterprise sectors.
+Designing scalable, fault-tolerant ecosystems for financial and enterprise sectors:
 
-- **Distributed Systems & Microservices:** Offloading complex business logic to external **Java (Spring Boot / Micronaut)** and **Node.js/TypeScript** microservices on **AWS Lambda**.
-- **Event-Driven Architecture:** Asynchronous state synchronization using **Kafka**, Change Data Capture (CDC), and Salesforce Pub/Sub APIs.
-- **Enterprise SaaS Architecture:** Strict separation of concerns using FFLIB/AWAF Enterprise Patterns, handling Large Data Volumes (LDV), and orchestrating automated KYC/AML compliance flows.
-- **DevOps & Infrastructure as Code:** Provisioning multi-cloud resources via **Terraform**, observability via **Datadog**/**Grafana**, and orchestrating automated CI/CD pipelines.
-
----
-
-### 🔬 Hobbyist Research: Malware Analysis & Reverse Engineering
-
-Outside of my day job architecting enterprise systems, I run a security research blog at [**malwareinquisition.eu**](https://malwareinquisition.eu/). 
-
-Reverse-engineering real malware is my hobby, but it directly sharpens my professional architectural decisions. Understanding how systems are actively exploited in the wild allows me to design better defense-in-depth mechanisms, stricter isolation boundaries, and more resilient integrations.
-
-- **Research Focus:** Static & dynamic analysis of PE/ELF binaries, deobfuscation, and unpacking.
-- **Tooling:** IDA Pro, Ghidra, x64dbg, Wireshark.
-- **Value to Enterprise:** Translating low-level threat intelligence (TTPs, C2 protocols) into high-level Zero Trust architectural constraints and secure SDLC practices.
+- **Enterprise Salesforce Ecosystem:** End-to-end architecture across **Financial Services Cloud (FSC)**, **OmniStudio**, **Agentforce**, **Experience Cloud**, and **Platform Developer II (PD2)** standards.
+- **Distributed Systems & Event-Driven Architecture:** Asynchronous state synchronization using **Kafka**, Change Data Capture (CDC), **Salesforce Pub/Sub APIs**, and microservices on **AWS Lambda** (Java, Node.js/TypeScript).
+- **Domain Patterns & Enterprise Governance:** Strict separation of concerns (FFLIB/AWAF), handling Large Data Volumes (LDV), identity management (OAuth2/SAML), and orchestrating automated KYC/AML compliance flows.
+- **DevSecOps, Infrastructure & CI/CD:** Building custom metadata comparison engines, automated deployment pipelines (SFDX, Python CLI tooling), Infrastructure as Code (**Terraform**), and observability via **Datadog / Grafana**.
 
 ---
 
 ### 🛠️ Technology Stack & Systems Tooling
 
-#### Backend, Integrations & Enterprise SaaS
+#### Salesforce & Enterprise SaaS
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="38" alt="Salesforce" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />
+</div>
+
+#### Core Engineering, Cloud & Integrations
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="Spring" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="C#" />
-</div>
-
-#### Cloud & Infrastructure
-<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" alt="AWS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="38" alt="Kafka" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="38" alt="Terraform" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="38" alt="Kubernetes" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="38" alt="Kafka" />
-</div>
-
-#### Reverse Engineering Tools
-<div align="left">
-  <img src="https://docs.hex-rays.com/~gitbook/image?url=https%3A%2F%2F1926493584-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FD7fgl4EL0WWJ18ZQcIxE%252Fuploads%252Fgit-blob-3d917705a9110478df98482036429c5101968c37%252Ficon_pro.png%3Falt%3Dmedia&width=300&dpr=1&quality=100&sign=c2eb309&sv=2" height="38" alt="IDA Pro" />
-  &nbsp;
-  <img src="https://i.imgur.com/876vnah.png" height="38" alt="Ghidra" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C" />
-  &nbsp;
-  <img src="https://www.svgrepo.com/show/373445/assembly.svg" height="38" alt="ASM" />
 </div>
 
 ---
 
-### 🎖️ Certifications
+### 🎖️ Certifications & Technical Credentials
 
-* **Salesforce Certified Platform Developer II (PD2)**
-* **Salesforce Certified Agentforce Specialist**
-* **Salesforce Certified Platform Developer I**
+- **Salesforce Certified Platform Developer II (PD2)**
+- **Salesforce Certified Agentforce Specialist**
+- **Salesforce Certified Platform Developer I**
 
 ---
 
