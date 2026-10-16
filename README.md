@@ -88,4 +88,6 @@ Designing scalable, fault-tolerant ecosystems for financial and enterprise secto
   <img src="https://github-readme-stats.vercel.app/api?username=Inquis1t0r&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&card_width=418" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats-hazel.vercel.app?user=Inquis1t0r&theme=tokyonight&card_width=418&hide_border=false" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://i.imgur.com/iqoia3g.png" alt="CodersRank" />
 </div>
